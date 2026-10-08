@@ -1,0 +1,30 @@
+
+body {
+  margin: 50px;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: "IBM Plex Sans Thai", sans-serif;
+  line-height: 1.65;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+about {
+  display: block;
+  margin: 20px auto;
+  max-width: 800px;
+  padding: 0 20px;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 20px;
+  width: 750px;
+  padding: 20px;
+  background-color: lightblue;
+  border: 3px solid black;
+  border-radius: 10px;
+}
+

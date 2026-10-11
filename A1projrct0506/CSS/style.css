@@ -1,10 +1,10 @@
-
 body {
   margin: 50px;
   background: var(--paper);
   color: var(--ink);
-  font-family: "IBM Plex Sans Thai", sans-serif;
+  font-family: "Unbounded", sans-serif;
   line-height: 1.65;
+  font-optical-sizing: auto;
 }
 
 html {
@@ -28,3 +28,70 @@ header {
   border-radius: 10px;
 }
 
+.card {
+  background-color: #f8f9fa;
+  border: 1px solid #dee2e6;
+  border-radius: 0.25rem;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.kanit-light {
+  font-family: "Kanit", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.kanit-semibold {
+  font-family: "Kanit", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.kanit-bold {
+  font-family: "Kanit", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.kanit-extrabold {
+  font-family: "Kanit", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.kanit-black {
+  font-family: "Kanit", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.kanit-regular-italic {
+  font-family: "Kanit", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.kanit-medium-italic {
+  font-family: "Kanit", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.kanit-semibold-italic {
+  font-family: "Kanit", sans-serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.kanit-bold-italic {
+  font-family: "Kanit", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.kanit-extrabold-italic {
+  font-family: "Kanit", sans-serif;
+  font-weight: 800;
+  font-style: italic;
+}

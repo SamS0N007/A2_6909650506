@@ -95,3 +95,9 @@ header {
   font-weight: 800;
   font-style: italic;
 }
+.unbounded-light {
+  font-family: "Unbounded", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  color: grey;
+}
